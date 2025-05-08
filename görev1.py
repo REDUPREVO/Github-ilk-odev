@@ -1,0 +1,8 @@
+a = float(input("sayı giriniz"))
+b=float(input("bir sayı daha alalım"))
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a**b)
